@@ -1,5 +1,5 @@
 # keyboardcat
-Keyboard cat is a simple CLI tool to generate ransom streams of ASCII characters to stdout. Speed and Charset can be adjusted and written to stdout or file. Can be as simle random string generator or display purpose. If there is any bug or feature request feel free to create an Issue or pull request.
+Keyboard cat is a simple CLI tool to generate ransom streams of ASCII characters to stdout. Speed and Charset can be adjusted and written to stdout or file. Can be used as simple random string generator or for display purpose. If there is any bug or feature request feel free to create an Issue or pull request.
 
 # Usage
 ```
